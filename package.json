@@ -20,6 +20,7 @@
     "gatsby": "^4.00.0",
     "gatsby-plugin-gatsby-cloud": "^4.18.1",
     "gatsby-plugin-manifest": "^4.18.1",
+    "gatsby-plugin-netlify": "^5.0.1",
     "gatsby-plugin-netlify-cms": "^6.24.0",
     "gatsby-plugin-sitemap": "^5.18.1",
     "gatsby-plugin-webpack-bundle-analyser-v2": "^1.1.27",
