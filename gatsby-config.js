@@ -17,10 +17,14 @@ module.exports = {
     author: `@lekoarts_de`,
   },
   plugins: [
+    `gatsby-plugin-netlify-cms`,
     {
       resolve: `@lekoarts/gatsby-theme-emilia`,
       // See the theme's README for all available options
-      options: {},
+      options: {
+        name: 'Matheus Damião',
+        location: 'RJ'
+      },
     },
     {
       resolve: `gatsby-plugin-sitemap`,
